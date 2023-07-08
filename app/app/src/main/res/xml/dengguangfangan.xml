@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dengguang_array">
+        <item></item>
+        <item>fangan_1</item>
+        <item>fangan_2</item>
+        <item>fangan_3</item>
+        <item>fangan_4</item>
+        <item>fangan_5</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="环境湿度波形图:"
+
+            android:textSize="25sp"/>
+
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/huanjingshidu_line"
+        android:layout_width="350dp"
+        android:layout_height="300dp"
+        android:gravity="center_horizontal">
+    </com.github.mikephil.charting.charts.LineChart>
+
+
+
+</LinearLayout>
